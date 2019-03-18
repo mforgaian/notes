@@ -8,3 +8,7 @@ curl 'http://www.ncedc.org/cgi-bin/catalog-search2.pl' -H 'Pragma: no-cache' -H 
 ```
 curl "http://nomads.ncep.noaa.gov/cgi-bin/filter_gfs_1p00.pl?file=gfs.t00z.pgrb2.1p00.f000&lev_10_m_above_ground=on&var_UGRD=on&var_VGRD=on&dir=%2Fgfs.${YYYYMMDD}00" -o gfs.t00z.pgrb2.1p00.f000
 ```
+
+
+## References
+[1]. [Reddit Data is beautiful](https://www.reddit.com/r/dataisbeautiful/)

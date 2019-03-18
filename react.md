@@ -3,6 +3,11 @@ React is a javascript library, used to build user interfaces on the frontend. Re
 React allows to write reusable components.
 ## components
 ## state
+* all the methods should be pure functions. to changes self properties state need to be used.
+* state is similar to props, but it is private and fully controlled by the component.
+* this.state and this.props may be updated asynchronously for performance.
+* When using React you should generally not need to call addEventListener to add listeners to a DOM element after it is created. Instead, just provide a listener when the element is initially rendered.
+
 ## props
 ## keys
 ## forms
