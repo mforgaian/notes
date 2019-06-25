@@ -19,3 +19,4 @@ React allows to write reusable components.
 # References
 [1]. [Getting Started with React](https://www.taniarascia.com/getting-started-with-react/)
 [2]. [Keys](https://reactjs.org/docs/lists-and-keys.html#keys)
+[3]. [w3schools reactjs](https://www.w3schools.com/react/default.asp)

@@ -51,7 +51,7 @@ if ('serviceWorker' in navigator) {
 [1]. [Service Workers-- Google](https://developers.google.com/web/fundamentals/primers/service-workers/)
 [2]. [The Basics of Web Workers](https://www.html5rocks.com/en/tutorials/workers/basics/)
 [3]. [A beginner's guide to Service Workers](https://medium.com/samsung-internet-dev/a-beginners-guide-to-service-workers-f76abf1960f6)
-
+[4]. [Service Wokrker Registration](https://github.com/GoogleChromeLabs/sw-precache/blob/master/demo/app/js/service-worker-registration.js#L25)
 
 
 

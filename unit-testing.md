@@ -96,3 +96,5 @@ TDD takes a little more time up front, but bugs that reach customers cost more i
 [3]. [Testing Frameworks](http://2016.stateofjs.com/2016/testing/)
 [4]. [BDD](https://en.wikipedia.org/wiki/Behavior-driven_development)
 [5]. [Unit vs Functional vs Integration Tests](https://www.sitepoint.com/javascript-testing-unit-functional-integration/)
+[6]. [Simplified Angular Unit Testing](https://logrocket.com/blog/angular-unit-testing/)
+[7]. [Angular Official Guide to Unit Testing](https://angular.io/guide/testing)
